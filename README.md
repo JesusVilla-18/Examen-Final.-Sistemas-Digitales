@@ -2,7 +2,7 @@
 <br>
 Código VHDL para implementación en hardware que modela un Datapath configurado con un comportamiento para desplegar los N elementos de la serie de Fibonacci que el usuario desee. 
 El comportamiento se consigue através de una máquina de estados finitos. 
-<br>
+<br><br>
 
 Contacto:<br>
 Fernando Raul Diaz Diaz: 0225745@up.edu.mx<br>
